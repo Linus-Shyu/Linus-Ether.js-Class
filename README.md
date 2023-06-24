@@ -13,7 +13,7 @@ If you want to learn ethers.js you can watch [Linus channel](https://www.youtube
 # Grateful
 wtf.academy
 
-[![wtf.academy](https://github.com/Linus-Shyu/Linus-Ether.js-Class/assets/83543818/5d03e539-0edf-4ace-96af-b74065d8fc0a)](https://www.wtf.academy/)
+[![wtf.academy](https://img.shields.io/badge/wtf%20academy%20-blue)](https://www.wtf.academy/)
 
 
 # Update code
