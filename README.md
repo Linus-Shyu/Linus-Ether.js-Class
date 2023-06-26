@@ -32,7 +32,7 @@ wtf.academy
 
 [Provider code](https://github.com/Linus-Shyu/Linus-Ether.js-Class/blob/master/Provider.js)
 
-[Provider Video on youtube]()
+[Provider Video on youtube](https://www.youtube.com/watch?v=1xG6O26Mlls)
 
 [Provider Video on Bilibili]()
 
