@@ -34,7 +34,7 @@ wtf.academy
 
 [Provider Video on youtube](https://www.youtube.com/watch?v=1xG6O26Mlls)
 
-[Provider Video on Bilibili]()
+[Provider Video on Bilibili](https://www.bilibili.com/video/BV1Tj411S7rU/?spm_id_from=333.999.0.0)
 
 =====================================================================================
 
