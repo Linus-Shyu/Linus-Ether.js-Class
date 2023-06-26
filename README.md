@@ -29,3 +29,12 @@ wtf.academy
 [Vitalik Video on Bilibili](https://www.bilibili.com/video/BV1hP411v7wF/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
 
 =====================================================================================
+
+[Provider code](https://github.com/Linus-Shyu/Linus-Ether.js-Class/blob/master/Provider.js)
+
+[Provider Video on youtube]()
+
+[Provider Video on Bilibili]()
+
+=====================================================================================
+
