@@ -38,3 +38,11 @@ wtf.academy
 
 -------------------------------------------------------------------------------------
 
+[Contract code](https://github.com/Linus-Shyu/Linus-Ether.js-Class/blob/master/Contract.js)
+
+[Contract Video on youtube]()
+
+[Contract Video on Bilibili]()
+
+-------------------------------------------------------------------------------------
+
