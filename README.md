@@ -40,9 +40,9 @@ wtf.academy
 
 [Contract code](https://github.com/Linus-Shyu/Linus-Ether.js-Class/blob/master/Contract.js)
 
-[Contract Video on youtube]()
+[Contract Video on youtube](https://www.youtube.com/watch?v=8Btd3wfZH9E)
 
-[Contract Video on Bilibili]()
+[Contract Video on Bilibili](https://www.bilibili.com/video/BV1d8411D7sj/?spm_id_from=333.999.0.0)
 
 -------------------------------------------------------------------------------------
 
