@@ -46,3 +46,11 @@ wtf.academy
 
 -------------------------------------------------------------------------------------
 
+[ETH code](https://github.com/Linus-Shyu/Linus-Ether.js-Class/blob/master/ETH.js)
+
+[ETH Video on youtube](https://youtu.be/xilJJHDBPZQ)
+
+[ETH Video on Bilibili](https://www.bilibili.com/video/BV1SM4y1s7Me/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
+
+-------------------------------------------------------------------------------------
+
